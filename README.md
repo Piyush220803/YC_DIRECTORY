@@ -1,2 +1,2 @@
-# YC_DIRECTORY
+# yc_directory
 NEXTJS project
